@@ -1,0 +1,9 @@
+com/inke/netchange/BaseApplication.java
+ com.inke.netchange.BaseApplication
+com/inke/netchange/MainOldActivity.java
+ com.inke.netchange.MainOldActivity
+com/inke/netchange/BuildConfig.java
+ com.inke.netchange.BuildConfig
+com/inke/netchange/MainActivity.java
+ com.inke.netchange.MainActivity
+ com.inke.netchange.MainActivity$1
